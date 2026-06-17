@@ -26,7 +26,7 @@ p.gamma=Parameter.Gamma;
 %Parameters
 try Parameter.nPop;
 catch
-    Parameter.nPop=70;
+    Parameter.nPop=50;
 end
 
 
