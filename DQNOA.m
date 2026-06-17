@@ -46,7 +46,10 @@ net.layers{2}.size = NF;
 VarMin=VarMin.*ones(1,nVar);
 VarMax=VarMax.*ones(1,nVar);
 
-DisplayResults=0;
+try DisplayResults;
+catch
+    DisplayResults=0;
+end
 MAxPop=Parameter.nPop;
 nPop=MAxPop;
 
