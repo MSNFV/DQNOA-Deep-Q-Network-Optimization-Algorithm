@@ -26,7 +26,7 @@ Citation
 
 If you use this code or method in your research, please cite:
 
-Feizi-Derakhshi, M.-R., & Farzi-Veijouyeh, N. (2026). DQNOA: A Problem-Adaptive Deep Q-Network Optimization Algorithm for Continuous and Engineering Problems. Communications in Nonlinear Science and Numerical Simulation, 110502. https://doi.org/https://doi.org/10.1016/j.cnsns.2026.110502.
+Feizi-Derakhshi, M.-R., & Farzi-Veijouyeh, N. (2026). DQNOA: A Problem-Adaptive Deep Q-Network Optimization Algorithm for Continuous and Engineering Problems. Communications in Nonlinear Science and Numerical Simulation, 110502. https://doi.org/10.1016/j.cnsns.2026.110502.
 
 📧 Contact
 
