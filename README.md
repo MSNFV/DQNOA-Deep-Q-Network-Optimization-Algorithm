@@ -18,7 +18,9 @@ DQNOA is a novel evolutionary optimization method designed to address complex co
   author={Mohammad-Reza Feizi-Derakhshi, Najibeh Farzi-Veijouyeh},
   journal={Communications in Nonlinear Science and Numerical Simulation},
   year={2026}
+  URL={https://www.sciencedirect.com/science/article/abs/pii/S1007570426008567}
   DOI={https://doi.org/10.1016/j.cnsns.2026.110502}
+  
 
 }
 
